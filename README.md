@@ -16,6 +16,10 @@
 
 - Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains
 
+- SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds
+
+- ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs
+
 ### CCS
 
 ### USENIX Security
