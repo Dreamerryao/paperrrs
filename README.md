@@ -8,6 +8,14 @@
 
 ### IEEE S&P
 
+- Quantifying Blockchain Extractable Value: How dark is the forest?
+
+- Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains
+
+- MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments
+
+- Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains
+
 ### CCS
 
 ### USENIX Security
