@@ -6,7 +6,7 @@
 
 从题目中就能看到，文章探讨的是社交媒体对NFT估值的影响。
 
-在本文中，我们旨在回答以下研究问题：
+文章主要回答以下问题：
 RQ1：Twitter上的用户活动与OpenSea上的价格之间有什么关系？
 RQ2：我们可以使用从Twitter和OpenSea获得的信号来预测NFT值吗；并确定哪些特征对预测影响最大？
 
@@ -20,3 +20,16 @@ https://drive.google.com/file/d/1PxkIyyD3O3vwthb4axqZUWbjdXgkXBA7/view
 
 3. 我们表明Twitter和OpenSea的特征都会影响模型输出。
 相比之下，图像特征的预测能力是有限的。这表明品牌和元数据（Twitter和OpenSea的特征）对价值的影响比NFT产品本身（图像功能）更强。
+
+
+## 第二遍
+
+这篇文章的前置知识很少，NFT的基础概念以及OpenSea等等，它没有做价格预测，而是做资产评估。
+**资产价值定义为资产在其所有历史销售中的平均售价**。文章通过资产价值将NFT分为5个资产类别（Class1-5)。
+
+首先数据收集过程，收集特定时间段的带OpenSea链接的Twitter数据，然后调用Opensea api去获取NFT相关信息。
+
+文章首先证明twitter和NFT有着强相关性。
+
+然后提取twitter和Opensea中的相关特征进行训练，得到了预料之中的结果。
+
