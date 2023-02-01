@@ -2,9 +2,7 @@
 
 [01: How to Read a Paper](./01-how2readpaper.md)
 
-## Step 1
-
-2022 安全四大会议上区块链相关的论文略读
+## 2022 安全四大会议上区块链相关的论文
 
 ### IEEE S&P
 
@@ -29,3 +27,5 @@
 ## NFT相关
 
 - TweetBoost: Influence of Social Media on NFT Valuation
+
+- Smart Contract Vulnerability Detection Using Graph Neural Networks (是朋友想做的一个东西，好奇，简单看看）
