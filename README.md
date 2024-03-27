@@ -2,27 +2,10 @@
 
 [01: How to Read a Paper](./01-how2readpaper.md)
 
-## 2022 安全四大会议上区块链相关的论文
+[Blockchain 会议索引](https://github.com/jianyu-niu/blockchain_conference_paper)
 
-### IEEE S&P
+## ALL IN NFT 相关的论文
 
-- Quantifying Blockchain Extractable Value: How dark is the forest?
-
-- Universal Atomic Swaps: Secure Exchange of Coins Across All Blockchains
-
-- MatRiCT+: More Efficient Post-Quantum Private Blockchain Payments
-
-- Using Throughput-Centric Byzantine Broadcast to Tolerate Malicious Majority in Blockchains
-
-- SAILFISH: Vetting Smart Contract State-Inconsistency Bugs in Seconds
-
-- ZeeStar: Private Smart Contracts by Homomorphic Encryption and Zero-knowledge Proofs
-
-### CCS
-
-### USENIX Security
-
-### NDSS
 
 ## NFT相关
 
