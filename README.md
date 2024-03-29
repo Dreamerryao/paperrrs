@@ -14,14 +14,17 @@
 - TweetBoost: Influence of Social Media on NFT Valuation
 
 - A Referable NFT Scheme (EIP-5521)
+相关链接：
 
+https://eips.ethereum.org/EIPS/eip-5521
+
+https://github.com/ReferableNFT/Solidity (这个写的好烂)
 
 ## 其他
 
 - Smart Contract Vulnerability Detection Using Graph Neural Networks (是朋友想做的一个东西，好奇，简单看看）
 
 - Proxy Hunting: Understanding and Characterizing Proxy-based Upgradeable Smart Contracts in Blockchains (USENIX 2023)
-
 介绍了可升级合约的检测，安全问题，依赖`Slither`，代码开源 
 https://github.com/USCHunt-Anon/USCHunt
 
